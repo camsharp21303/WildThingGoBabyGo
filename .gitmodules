@@ -1,0 +1,6 @@
+[submodule "GoBabyGoCode"]
+	path = GoBabyGoCode
+	url = https://github.com/camsharp21303/GoBabyGoCode.git
+[submodule "WildThingApp"]
+	path = WildThingApp
+	url = https://github.com/camsharp21303/WildThingApp.git
